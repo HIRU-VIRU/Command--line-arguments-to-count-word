@@ -1,0 +1,4 @@
+hello friends
+this is a python program 
+to check the implementation of system 
+command line method to count the words of a file
